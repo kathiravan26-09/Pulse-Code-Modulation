@@ -1,6 +1,6 @@
 # Pulse-Code-Modulation
-## Aadhithya SV
-## 212223060001
+## kathiravan B
+## 212223060117
 ## Aim
 To study and analyze Pulse Code Modulation (PCM) as a digital signal encoding technique, focusing on its principles, advantages, and applications in modern communication systems to improve signal integrity and transmission efficiency.
 ## Tools required
